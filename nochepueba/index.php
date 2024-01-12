@@ -4,7 +4,7 @@
         require_once 'header.php'; 
     ?>
     <body id="page-top">
-        <!-- Navigation-->
+        <!-- Holder-->
         <?php
         require_once 'nav.php'; 
         ?>
